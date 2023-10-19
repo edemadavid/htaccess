@@ -17,7 +17,7 @@
 
 <IfModule mod_headers.c>
     <FilesMatch "\.(eot|otf|ttf|woff|woff2|ico)$">
-        Header set Access-Control-Allow-Origin "https://taiwoabe.com"
+        Header set Access-Control-Allow-Origin "https://"
     </FilesMatch>
 </IfModule>
 
